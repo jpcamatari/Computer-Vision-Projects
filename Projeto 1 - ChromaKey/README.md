@@ -9,6 +9,7 @@ Nesse projeto tecnico, temos a inteção de remover o fundo verde de um video, e
 Antes e depois
 
 ### Carregando Videos
+                                                    
 ~~~python
 #Carregando videos
 cap_web = cv2.VideoCapture('data/webcam.mp4')
