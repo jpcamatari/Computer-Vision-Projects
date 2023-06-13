@@ -5,8 +5,8 @@ Nesse projeto tecnico, temos a inteção de remover o fundo verde de um video, e
 <p align="center">
   <img src="data/fus%C3%A3o%20chromakey.gif" style="width: 400px; height: 400px;>
 </p>
-<br>
-Antes e depois
+<br clear="all"/>
+
 
 ### Carregando Videos
                                                     
