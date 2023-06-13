@@ -56,3 +56,10 @@ while True:
 
     result_resized = cv2.resize(result, (window_width, window_height))
     '''
+
+    ##Sobre mim:
+
+<div>
+  <a href="https://www.linkedin.com/in/jpcamatari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jpcamatari@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
