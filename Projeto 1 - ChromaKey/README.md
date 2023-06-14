@@ -1,6 +1,6 @@
 # Keying com OpenCV
 
-Nesse projeto tecnico, temos a inteção de remover o fundo verde de um video, e inserir uma mascara de um backgroud no fundo utilizando a biblioteca OpenCV
+Nesse projeto tecnico, temos a intenção de remover o fundo verde de um vídeo, e inserir uma mascara de um background no fundo utilizando a biblioteca OpenCV
 
 <p align="center">
   <img src="data/fus%C3%A3o%20chromakey.gif" style="width: 400px; height: 400px;>
